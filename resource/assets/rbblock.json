@@ -1,0 +1,15 @@
+﻿{
+"res":{
+	"block0000": {"x":0,"y":0,"w":40,"h":62},
+	"block0001": {"x":0,"y":62,"w":40,"h":62}
+},
+"frames": {
+	"block": {
+		"totalFrame": 2,
+		"childrenFrame": [
+			{"res":"block0000","x":0,"y":0},
+			{"res":"block0001","x":0,"y":0}
+		]
+	}
+}
+}
